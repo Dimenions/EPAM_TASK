@@ -1,0 +1,6 @@
+testFile.txt -sdffsdfsdf"C:\Users\Dimenions\source\repos\4_1_FileManagementSystem\4_1_FileManagementSystem\StoringFolder\ToStore\testFile.txt" - 22:27:18 
+"C:\Users\Dimenions\source\repos\4_1_FileManagementSystem\4_1_FileManagementSystem\StoringFolder\ToStore\testFile.txt" - 22:51:01 
+"C:\Users\Dimenions\source\repos\4_1_FileManagementSystem\4_1_FileManagementSystem\StoringFolder\ToStore\testFile.txt" - 22:52:14 
+"C:\Users\Dimenions\source\repos\4_1_FileManagementSystem\4_1_FileManagementSystem\StoringFolder\ToStore\testFile.txt" - 22:57:09 
+testFile.txt -
+"C:\Users\Dimenions\source\repos\4_1_FileManagementSystem\4_1_FileManagementSystem\StoringFolder\ToStore\testFile.txt" - 23:01:50 
